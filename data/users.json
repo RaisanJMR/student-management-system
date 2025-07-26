@@ -1,0 +1,38 @@
+[
+  {
+    "name": "admin",
+    "email": "admin@example.com",
+    "password": "123456",
+    "role": "super_admin",
+    "contact": "5210068545",
+    "permissions": [
+      "create",
+      "view",
+      "delete",
+      "edit"
+    ]
+  },
+  {
+    "name": "Alice Staff",
+    "email": "alice@example.com",
+    "password": "Alice@123",
+    "role": "staff",
+    "contact": "5212558545",
+    "permissions": [
+      "view",
+      "edit"
+    ]
+  },
+  {
+    "name": "Bob Staff",
+    "email": "bob@example.com",
+    "password": "Bob@123",
+    "role": "staff",
+    "contact": "5212568445",
+    "permissions": [
+      "create",
+      "view",
+      "delete"
+    ]
+  }
+]

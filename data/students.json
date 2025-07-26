@@ -1,0 +1,31 @@
+[
+    {
+      "name": "John Doe",
+      "age": 15,
+      "grade": "10th",
+      "contact": "9876543210",
+      "email": "jane@school.com"
+    },
+    {
+      "name": "Emma Watson",
+      "age": 14,
+      "grade": "9th",
+      "contact": "8765432109",
+      "email": "emma@school.com"
+    },
+    {
+      "name": "Liam Smith",
+      "age": 16,
+      "grade": "11th",
+      "contact": "7654321098",
+      "email": "liam@school.com"
+    },
+    {
+      "name": "Sophia Lee",
+      "age": 13,
+      "grade": "8th",
+      "contact": "6543210987",
+      "email": "sophia@school.com"
+    }
+  ]
+  
